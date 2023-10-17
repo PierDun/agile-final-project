@@ -1,5 +1,5 @@
 ---
-name: CustoUser Story
+name: User Story
 about: Template for creating user stories
 title: ''
 labels: ''
